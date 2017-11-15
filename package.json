@@ -1,0 +1,19 @@
+{
+  "name": "article-bot",
+  "version": "1.0.0",
+  "description": "A bot to suggest articles for you to read.",
+  "main": "article-bot.js",
+  "dependencies": {
+    "botkit": "0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/googlecodelabs/cloud-slack-bot.git"
+  },
+  "author": "Google Inc.",
+  "license": "Apache-2.0"
+}
