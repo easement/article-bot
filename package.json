@@ -12,8 +12,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/googlecodelabs/cloud-slack-bot.git"
+    "url": "https://github.com/easement/article-bot.git"
   },
-  "author": "Google Inc.",
+  "author": "Matt Billings",
   "license": "Apache-2.0"
 }
