@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: master
-        image: gcr.io/reading-list-bot/slack-codelab:v8  # Replace PROJECT_ID
+        image: gcr.io/article-bot/slack-codelab:v1  # Replace PROJECT_ID
                                                    # with your project ID.
         volumeMounts:
         - name: slack-token
