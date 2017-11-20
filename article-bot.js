@@ -249,7 +249,7 @@ var articles = [
 },
 {
   mins: 5,
-  topics: ['pressure', 'strtess'],
+  topics: ['pressure', 'stress'],
   title: 'Pressure Doesn\'t Have to Turn into Stress',
   url:'https://hbr.org/2017/03/pressure-doesnt-have-to-turn-into-stress'
 },
